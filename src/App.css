@@ -1,0 +1,20 @@
+* {
+    background: lightblue;
+    font-family: "Gill Sans", sans-serif;
+    text-align: center;
+}
+
+.img{
+    height: 500px;
+    width: 90%;
+    padding-left: 5%;
+}
+
+button {
+    font-size: 2rem;
+}
+
+.Himage {
+    height: 100px;
+    width: 100px;
+}
